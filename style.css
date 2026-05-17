@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Imnotkanpawin {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.Imnotkanpawin p {
+    font-size: 100px;
+    color: #fa0505;
+}
+
+body {
+    background-image: url(https://i.ytimg.com/vi/sxrzdev5l3A/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    transform: rotate(-20deg);
+    transform-origin: center;
+    overflow-x: hidden;
+}
